@@ -1,0 +1,2 @@
+[{"options": "choices", "add_omask": true, "position": 0, "token_type": 1, "length": 10}, {"sep": null, "token_type": 0, "position": 0}, {"text": "text_a"}, {"sep": null, "token_type": 1}, {"text": "text_b"}]
+{"class": "UTCTemplate"}
